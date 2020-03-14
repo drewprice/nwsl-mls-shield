@@ -1,7 +1,6 @@
 # What is this?
 An annual award, organized by supporters, for the teams with the best combined [NWSL](https://en.wikipedia.org/wiki/National_Women%27s_Soccer_League) and [MLS](https://en.wikipedia.org/wiki/Major_League_Soccer) seasons.
 
-
 # K, but why?
 To determine soccer's Big Winner, yo.
 
@@ -23,3 +22,21 @@ Proposed first tie-breaker: goals scored by the team from the under-represented 
 - Coming up with a really wonderful name :thinking:
 - Creating an actual trophy??!
 - Awarding the actual trophy to the actual teams
+
+# Data Source
+The data for these tables was pulled from the pages below. More details for each year are available in this document: https://docs.google.com/spreadsheets/d/e/2PACX-1vTTeIZ7t1CmvjzOM38Iv-dS__0Oal4f9e6jLOky0yU-aachkYUlipXWbbSP6LgY6hRNPfTe3bIMvLvB/pubhtml.
+
+- https://en.wikipedia.org/wiki/2013_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2013_Major_League_Soccer_season
+- https://en.wikipedia.org/wiki/2014_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2014_Major_League_Soccer_season
+- https://en.wikipedia.org/wiki/2015_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2015_Major_League_Soccer_season
+- https://en.wikipedia.org/wiki/2016_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2016_Major_League_Soccer_season
+- https://en.wikipedia.org/wiki/2017_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2017_Major_League_Soccer_season
+- https://en.wikipedia.org/wiki/2018_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season
+- https://en.wikipedia.org/wiki/2019_National_Women%27s_Soccer_League_season
+- https://en.wikipedia.org/wiki/2019_Major_League_Soccer_season
